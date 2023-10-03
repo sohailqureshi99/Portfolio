@@ -3,9 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sohailqureshi99&label=PROFILE+VIEWS)
 
----
-
-### Connect with me:
+## Connect with me:
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/sohailqureshi99)
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/sohail-qureshi99) 
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohailqureshi1999@gmail.com)
