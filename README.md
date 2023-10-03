@@ -15,6 +15,7 @@ Software Engineer with an experience of 2 years in multiple roles such as SDE, D
 ## Open to work
 
 Looking for CoOp/Full Time opportunities in USA as a Data Scientist, Data Analyst, Business Analyst, Data Engineer, Software Engineer and Software Project Management roles.
+
 Core Interest : Data, AD/ADAS, EV
 
 ## Education
