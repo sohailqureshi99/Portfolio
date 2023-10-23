@@ -32,5 +32,5 @@ Core Interest : Data, AD/ADAS, EV
 **Automotive Resume** -  Contains automotive related skills and experiences 
 
 
-**Interim Letter** - This letter has been issued by ZF Board of Management to autheticate roles and responsibilities I have undertaken during my tenure at ZF Group 
+**Interim Letter** - This letter has been issued by ZF Board of Management to authenticate roles and responsibilities I have undertaken during my tenure at ZF Group 
  
