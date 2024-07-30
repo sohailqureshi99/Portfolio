@@ -10,7 +10,7 @@
 
 
 ## About me
-Software Engineer with an experience of 2 years in multiple roles such as SDE, Data Analyst, DevOps Engineer, Project Manager, and Scrum Master. Worked for the Automobile Industry focusing on Autonomous Driving, Industrial Software solutions, and Software project management.
+Software Engineer with an experience of 4 years in multiple roles such as SDE, Data Analyst, DevOps Engineer, Project Manager, and Scrum Master. Worked for the Automobile Industry focusing on Autonomous Driving, Industrial Software solutions, and Software project management.
 
 ## Open to work
 
